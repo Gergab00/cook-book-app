@@ -6,9 +6,4 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class CookbookApplicationTests {
 
-	@Test
-	void contextLoads() {
-		System.out.println("Hello World");
-	}
-
 }
